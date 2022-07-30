@@ -1,0 +1,24 @@
+{
+  "name": "teamprofilegen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/189427/teamprofilegen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/189427/teamprofilegen/issues"
+  },
+  "homepage": "https://github.com/189427/teamprofilegen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.3"
+  }
+}
