@@ -1,7 +1,8 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 
-/* const genHTML = require("./src/HTMLgen.js");
+const HTMLgen = require("./src/HTMLgen.js");
+/*  
 const Engineer = require(".lib/Engineer");
 const Intern = require(".lib/Intern");
 const Manager = require(".lib/Manager"); */
