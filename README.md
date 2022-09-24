@@ -8,7 +8,7 @@ It features jest testing for each part of the card.
 [App Screenshot](https://imgur.com/a/IcHj6Mp)
 [Video Demonstration](https://youtu.be/aX0DH7JqK0c)
 
-## Installation
+## Installation + Running
 
 Install my-project with npm
 
